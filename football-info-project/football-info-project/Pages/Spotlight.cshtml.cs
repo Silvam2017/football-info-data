@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace football_info_project.Pages
 {
-    public class PrivacyModel : PageModel
+    public class SpotlightModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
+        private readonly ILogger<SpotlightModel> _logger;
 
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        public SpotlightModel(ILogger<SpotlightModel> logger)
         {
             _logger = logger;
         }
