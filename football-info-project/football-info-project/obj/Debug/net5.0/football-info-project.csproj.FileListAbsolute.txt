@@ -340,13 +340,6 @@ C:\Users\silva\Desktop\interview-project\football-info-data\football-info-projec
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.TagHelpers.input.cache
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.TagHelpers.output.cache
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.RazorCoreGenerate.cache
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.RazorTargetAssemblyInfo.cache
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.RazorTargetAssemblyInfo.cs
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.Views.pdb
@@ -355,3 +348,10 @@ C:\Users\silva\Desktop\interview-project\football-info-data\football-info-projec
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\ref\football-info-project.dll
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.pdb
 C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\football-info-project.genruntimeconfig.cache
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\Error.cshtml.g.cs
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\Rankings\Index.cshtml.g.cs
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\Spotlight\Spotlight.cshtml.g.cs
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\silva\Desktop\interview-project\football-info-data\football-info-project\football-info-project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
